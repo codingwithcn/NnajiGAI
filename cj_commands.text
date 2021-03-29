@@ -1,0 +1,5 @@
+Say: What can you do? To know the commands that you could say
+Say: Show groceries, To see the groceries that has been added
+Say: "Add to groceries: (and the name of what you would to add)" so I could add it to groceries list.
+Say: "Delete from groceries: (and the name of what you would like me to delete)" so I could remove it from groceries list.
+Say: "Program End Password: (with envcription key password)" if you would like me to end the program. But be warned given the wrong key would force me to remove your number from my memory.
